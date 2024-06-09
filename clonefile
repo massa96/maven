@@ -1,1 +1,2 @@
-gh repo clone massa96/maven
+git clone https://github.com/massa96/maven.git mv
+apt-get update
